@@ -1,2 +1,5 @@
 # htmlはいらない
 *.html
+
+# 参考資料はいらない
+references
