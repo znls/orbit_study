@@ -50,7 +50,7 @@ $R_x(\theta) = \left(
         \begin{array}{ccc}
             1 & 0 & 0 \\
             0 & \cos{\theta} & -\sin{\theta} \\
-            0 & \sin{\theta} & \cos{\theta} 
+            0 & \sin{\theta} & \cos{\theta}
         \end{array}
     \right)$
 
@@ -58,7 +58,7 @@ $R_y(\theta) = \left(
         \begin{array}{ccc}
             \cos{\theta} & 0 & \sin{\theta} \\
             0 & 1 & 0 \\
-            -\sin{\theta} & 0 & \cos{\theta} 
+            -\sin{\theta} & 0 & \cos{\theta}
         \end{array}
     \right)$
 
@@ -115,7 +115,7 @@ $$
                 -0.0000000176t^5 \\
 \bar{\psi} &=  -0.041775 + 5038.481484t + 1.5584175t^2 + -0.00018522t^3 +  -0.000026452t^4 +
                 -0.0000000148t^5　\\
-\epsilon_A &= 84381.406 + -46.836769t + -0.0001831t^2 + 0.00200340t^3 +  -0.000000576t^4 + 
+\epsilon_A &= 84381.406 + -46.836769t + -0.0001831t^2 + 0.00200340t^3 +  -0.000000576t^4 +
                 -0.0000000434t^5
 \end{aligned}
 $$
